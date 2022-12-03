@@ -1,4 +1,4 @@
-# API_com_GitHub_Actions
+# API_with_GitHub_Actions
 ![Badge in Development](http://img.shields.io/static/v1?label=STATUS&message=%20DONE&color=GREEN&style=for-the-badge)
 
 Our api with with github actions__
